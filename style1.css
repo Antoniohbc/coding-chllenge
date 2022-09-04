@@ -1,0 +1,43 @@
+.container{
+  width: 900px;
+  margin: auto;
+
+}
+
+.logo{
+  width: 200px;
+}
+.textlogo{
+  color: #39ff14;
+  font-size: 40px;
+}
+.soluzione1{
+  font-size: 25px;
+  font-style: italic;
+}
+.soluzione2{
+  font-size: 25px;
+  font-style: italic;
+}
+.soluzione3{
+  font-size: 25px;
+  font-style: italic;
+}
+body{
+  background-image: url(Sfondo.jpg);
+  background-size: 100%;
+
+}
+.row1{
+  background-color: #39ff14;
+  padding: 1%;
+}
+header{
+  text-align: center;
+}
+footer{
+  text-align: center;
+}
+#nome-footer{
+  font-size: 20px;
+}
